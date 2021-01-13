@@ -1,6 +1,6 @@
 # Unit 19 React Homework: Employee Directory
 
-Link of Deployable App: https://dashboard.heroku.com/apps/young-cliffs-00827
+Link of Deployable App: https://young-cliffs-00827.herokuapp.com/
 
 ## Overview
 
